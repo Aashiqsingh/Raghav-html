@@ -5,3 +5,8 @@ About C language
 Advantage of c : 5-6 point 
 
 Dissadvantage of c : 6-7 point 
+
+
+
+table task 
+5 employee : empId , name , email , salary , designation
